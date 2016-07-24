@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:16.04
 
 #! mapnik2.2 don't like libgeos version from postgis2.1
 #! libgeos-c1 (= 3.2.2-3ubuntu1) but 3.3.3-1.1~pgdg12.4+1 is to be installed
